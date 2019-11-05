@@ -127,5 +127,5 @@ def adding_to_dennis
         }
      }
 programmer_hash[:grace_hopper][:dennis_ritchie][:language][1] = "Assembly"
-puts programmer_hash
+return programmer_hash
 end
